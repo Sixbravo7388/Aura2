@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Content Organizer",
+  "description": "An application to help extract, organize, and manage your content.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
